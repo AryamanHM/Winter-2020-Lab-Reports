@@ -1,0 +1,2 @@
+Participant,Trials/Cond,Trial Dur (0=until resp),Respond To:,Respond To:_val,Button Type,Button Type_val,Font Size,Word intensity,Background,Rel X Pos,Word Pos Random,Fix Duration,Use Makser,ISI,Gap Size (rel h),Mask Dur (ms),Word Fill,Show Fix When,Trial Delay,On Till Response,Stimulus Duration,Congruent_RT (ms), Incongruent_RT (ms), Congruent_Accuracy, Incongruent_Accuracy, 
+CLR070,20,0,The Color,0,Word,0,24,255,0,0.5,false,1000,false,10,0,200,Color,First,1000,true,0,1344.2299999952315, 1643.6588235322167, 1, 0.85, 

@@ -1,0 +1,8 @@
+[9:49 AM] Ayesha Shaik
+    Create a network topology with a CISCO ASA Firewall, Router, Switch, 3 PCs and a Server. Here, a PC is to be connected with ASA Firewall and two PCs are to be connected with switch. Do the following:
+1. Create two VLANs 
+2. Configure the Router, Server and Firewall.
+3. Ensure the firewall functionality by demonstrating the packet transmission between the PCs and Server. 
+4. Apply NAT
+5. Use DHCP and ICMP protocols 
+6. Ping the connected PCs
